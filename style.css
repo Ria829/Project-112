@@ -1,0 +1,11 @@
+#case_img{
+    height: 100px;
+    width: 100px;
+}
+p{
+    background-color: cyan;
+    color: black;
+}
+.h{
+    background-color: rgb(0, 247, 255);
+}
